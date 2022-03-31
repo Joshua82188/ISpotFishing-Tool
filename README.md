@@ -1,5 +1,7 @@
 # ISpotFishing-Tool
 
+![ISPOTFISHING](https://i.gyazo.com/2808e29c63a171a698bc4e1398392877.jpg)
+
 ## Section 1: ISpotFishing Tool Information**
 
 The ISpotFishing Tool is a newly designed tool, which is responsible for helping to detect phishing emails. It aims to extract, analyse, and present data from emails to help determine the risk or the likelihood of a phishing email. 
