@@ -24,6 +24,7 @@ When launched for the first time, the tool will load the UI element of the progr
 ![ISpotFishingToolMainUI](https://i.gyazo.com/f1be5ecab5cc17dd4e52c6727289d55c.png)
 
 
+
 **Section 2: Methods in the ISpotFishing Tool**
 
 The tool has three different methods of detecting phishing emails. These methods are the following:
@@ -55,6 +56,7 @@ Before viewing an email, you must ensure that you are logged in with the correct
 **PLEASE NOTE THAT THE METHODS IN THIS EMAIL ARE DESIGNED TO HELP ANALYSE EMAILS. THEREFORE, IT IS YOUR RESPONSIBILITY TO REVIEW ALL THE DATA IN FRONT OF YOU AND MAKE YOUR JUDGEMENT. ISPOTFISHING TOOL DOES NOT TAKE ANY RESPONSIBILITY FOR ANY LOSSES, OR DAMAGES AS A RESULT OF YOUR ACTIONS.**
 
 
+
 **Section 3: Factors/Techniques in detecting phishing emails**
 
 To detect phishing email attacks, you must ensure to have sufficient information on the techniques, and methods cybercriminals use to conduct phishing email attacks. When using the tool, please make sure to analyse the following data presented:
@@ -65,6 +67,7 @@ To detect phishing email attacks, you must ensure to have sufficient information
 - URLs provided in the email.
 
 More information on how to detect a phishing email can be found here: https://www.itgovernance.co.uk/blog/5-ways-to-detect-a-phishing-email
+
 
 
 **Section 4: Q&A**
@@ -118,6 +121,7 @@ Please read Section 5: Prototype Questionnaire
 Please drop me an email: joshua@ispotfishing.net
 
 
+
 **Section 5: Reporting Bugs, or Issues**
 Please read the following information below before reporting any bugs or issues with the tool.
 
@@ -146,6 +150,7 @@ Note:
 Failure to fill in the questions may result in your report being denied or delayed. Therefore, please ensure to gather all the necessary information before submitting your report. 
 
 All bugs or issues reported must have been done ethically. This means not using any additional software to modify the tool’s behaviour. Any reports involving unethical behaviour, or testing will be rejected.
+
 
 
 **Final Section: Prototype Questionnaire**
