@@ -125,6 +125,7 @@ Please drop me an email: joshua@ispotfishing.net
 
 
 **Section 5: Reporting Bugs, or Issues**
+
 Please read the following information below before reporting any bugs or issues with the tool.
 
 Bug or Issue Information:
