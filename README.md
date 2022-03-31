@@ -14,7 +14,7 @@ How to login to the ISpotFishing Tool
 The ISpotFishing Tool only works currently with Outlook. This tool will not work against other email providers such as Gmail, Yahoo, etc. Please note that we also don’t support custom email domains e.g. university emails, or business emails. All emails used are to be personal and kept personal during the use of the tool.
 
 1. Once you run the tool, you will be prompted to sign in to your Outlook account, as shown in the image below.
-[SCREENSHOT]
+![ISpotFishingToolUI](https://i.gyazo.com/62bf77e4a9cf488b6da42ac66e8c5734.png)
 
 2. Please enter your Outlook email address and password.
 3. If you type in the incorrect login details, access to the tool will be denied.
@@ -70,39 +70,50 @@ More information on how to detect a phishing email can be found here: https://ww
 **Section 4: Q&A**
 
 Q: Why does this tool only work against unseen emails?
+
 A: Due to limitations of the protocol used to retrieve the data, alongside the API used to collect the data, the tool will only work against unseen emails. However, if you unsee an email and then repeat the steps above, it will work.
 
 Q: Do I have to click off the email for the tool to retrieve the data?
+
 A: Yes. This is due to the limitations of the API as mentioned above. We cannot fix this ourselves.
 
 Q: How far back can emails be analysed?
+
 A: Due to limitations of the software, the tool can only handle 30 unread emails and lower. Anything more than 30 will not work against the email. If you want to analyse older emails, you will need to read some first until it is below the limit.
 
 Q: Why am I responsible for analysing the data and making my judgement?
+
 A: The job of the tool is to simply extract, and present specific and filtered data for analysis. This tool cannot tell you if it is a phishing email: it can help to analyse a phishing email, which can assess the likelihood of it being a phishing email. You are responsible for checking this yourself.  More information as mentioned above can be found here: https://www.itgovernance.co.uk/blog/5-ways-to-detect-a-phishing-email
 
 Q: Am I allowed to take the tool and distribute it as my own? 
+
 A: No you can’t. The tool developed belongs to the Project Manager unless stated otherwise. All creations are protected under the Copyright, Designs, and Patents Act.
 
 Q: I have a suggestion I would like to add. Where can I report this?
 A: Please create an issue here: https://github.com/Joshua82188/ISpotFishing-Tool/issues. Please make sure to include as much information as you can. Please note that although we appreciate all feedback reported, this does not guarantee it will be implemented.
 
 Q: Why does this tool only work with Outlook?
+
 A: Every email provider stores and generates data differently. Because of this, it is difficult to expand it to different email providers with the restrictions in place of the project. Therefore, the decision was made to implement it only for Outlook for now.
 
 Q: Why do I have to log in to the tool before I start using it?
+
 A: This is so that the email server and the tool can communicate with each other. Don’t worry, all requests and data transmitted are secured with SSL Encryption. Your details are also encrypted when logged in. No one can view or steal your information or data.
 
 Q: Are there any plans in the future to continue the development of the tool?
+
 A: Unfortunately, the current answer is no. This project is only going to be active until May, in which afterward the project will be terminated (closed). The tool will be discontinued following project termination and will no longer be receiving any updates or support. There could be plans in the future to continue the development of the tool, but this is at the discretion of the Project Manager.
 
 Q: I have discovered a bug or issue with the tool. Where can I report this?
+
 A: Please read Section 4: Reporting Bugs, or Issues.
 
 Q: I would like to report my feedback on the prototype. Where can I do this?
+
 Please read Section 5: Prototype Questionnaire
 
 Q: I have another question that doesn’t have an answer. Who should I forward the question to?
+
 Please drop me an email: joshua@ispotfishing.net
 
 
@@ -110,7 +121,7 @@ Please drop me an email: joshua@ispotfishing.net
 Please read the following information below before reporting any bugs or issues with the tool.
 
 Bug or Issue Information:
-Please ensure that you’re on the latest version of the tool. The version number to date is: XXXX
+Please ensure that you’re on the latest version of the tool. The version number to date is: PROTOTYPE-fa24b0f
 
 Please document any steps or methods in replicating the bug or issue. The steps should ensure that the bug or issue can be replicated consistently for debugging purposes.
 
