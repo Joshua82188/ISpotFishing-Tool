@@ -14,7 +14,7 @@ How to login to the ISpotFishing Tool
 The ISpotFishing Tool only works currently with Outlook. This tool will not work against other email providers such as Gmail, Yahoo, etc. Please note that we also don’t support custom email domains e.g. university emails, or business emails. All emails used are to be personal and kept personal during the use of the tool.
 
 1. Once you run the tool, you will be prompted to sign in to your Outlook account, as shown in the image below.
-2. 
+ 
 ![ISpotFishingToolUI](https://i.gyazo.com/62bf77e4a9cf488b6da42ac66e8c5734.png)
 
 2. Please enter your Outlook email address and password.
