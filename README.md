@@ -107,14 +107,16 @@ Please include any images, photographs, or videos of the bug or issue if possibl
 
 Once you have read all the information above, please make sure to copy this template below, and create an issue here: https://github.com/Joshua82188/ISpotFishing-Tool/issues.
 
-``Questions with an asterisk (*) must have an answer.
+Questions with an asterisk (*) must have an answer.
+```
 (*) Description of bug or issue:
 (*) Are you able to consistently replicate this bug or issue?:
 (*) Please provide the steps to replicate here:
 (*) Your Operating System, including Version: 
 Image(s) of bug or issue:
 Video(s) of bug or issue:
-Additional Information:``
+Additional Information:
+```
 
 Note:
 Failure to fill in the questions may result in your report being denied or delayed. Therefore, please ensure to gather all the necessary information before submitting your report. 
