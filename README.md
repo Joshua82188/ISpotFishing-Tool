@@ -24,9 +24,9 @@ When launched for the first time, the tool will load the UI element of the progr
 
 **Section 2: Methods in the ISpotFishing Tool**
 The tool has three different methods of detecting phishing emails. These methods are the following:
-• Email Header Extraction and Analysis
-• Website (URL) Detection and Analysis
-• Attachments Detection and Analysis
+- Email Header Extraction and Analysis
+- Website (URL) Detection and Analysis
+- Attachments Detection and Analysis
 
 Email Header Extraction and Analysis
 The Email Header Extraction and Analysis method automatically fetches and extracts the contents of an email header for analysis. When a student clicks on an email and unclicks it, the tool will retrieve the necessary email header data, and present this data for analysis. 
@@ -50,11 +50,11 @@ Before viewing an email, you must ensure that you are logged in with the correct
 
 **Section 3: Factors/Techniques in detecting phishing emails**
 To detect phishing email attacks, you must ensure to have sufficient information on the techniques, and methods cybercriminals use to conduct phishing email attacks. When using the tool, please make sure to analyse the following data presented:
-• The email address of the sender.
-• A return path if one is provided - can help to cross-check the sender email address against the return-path email address.
-• Attachments in the email.
-• Domain names (if any).
-• URLs provided in the email.
+- The email address of the sender.
+- A return path if one is provided - can help to cross-check the sender email address against the return-path email address.
+- Attachments in the email.
+- Domain names (if any).
+- URLs provided in the email.
 
 More information on how to detect a phishing email can be found here: https://www.itgovernance.co.uk/blog/5-ways-to-detect-a-phishing-email
 
@@ -107,14 +107,14 @@ Please include any images, photographs, or videos of the bug or issue if possibl
 
 Once you have read all the information above, please make sure to copy this template below, and create an issue here: https://github.com/Joshua82188/ISpotFishing-Tool/issues.
 
-`Questions with an asterisk (*) must have an answer.
+``Questions with an asterisk (*) must have an answer.
 (*) Description of bug or issue:
 (*) Are you able to consistently replicate this bug or issue?:
 (*) Please provide the steps to replicate here:
 (*) Your Operating System, including Version: 
 Image(s) of bug or issue:
 Video(s) of bug or issue:
-Additional Information:`
+Additional Information:``
 
 Note:
 Failure to fill in the questions may result in your report being denied or delayed. Therefore, please ensure to gather all the necessary information before submitting your report. 
