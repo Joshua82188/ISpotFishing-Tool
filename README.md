@@ -129,11 +129,12 @@ Please drop me an email: joshua@ispotfishing.net
 Please read the following information below before reporting any bugs or issues with the tool.
 
 Bug or Issue Information:
-Please ensure that you’re on the latest version of the tool. The version number to date is: PROTOTYPE-fa24b0f
 
-Please document any steps or methods in replicating the bug or issue. The steps should ensure that the bug or issue can be replicated consistently for debugging purposes.
+- Please ensure that you’re on the latest version of the tool. The version number to date is: PROTOTYPE-fa24b0f
 
-Please include any images, photographs, or videos of the bug or issue if possible. This is to identify how the bug or issue is behaving in the tool.
+- Please document any steps or methods in replicating the bug or issue. The steps should ensure that the bug or issue can be replicated consistently for debugging purposes.
+
+- Please include any images, photographs, or videos of the bug or issue if possible. This is to identify how the bug or issue is behaving in the tool.
 
 Once you have read all the information above, please make sure to copy this template below, and create an issue here: https://github.com/Joshua82188/ISpotFishing-Tool/issues.
 
