@@ -1,6 +1,6 @@
 # ISpotFishing-Tool
 
-Section 1: ISpotFishing Tool Information
+**Section 1: ISpotFishing Tool Information**
 The ISpotFishing Tool is a newly designed tool, which is responsible for helping to detect phishing emails. It aims to extract, analyse, and present data from emails to help determine the risk or the likelihood of a phishing email. 
 
 How to download the ISpotFishing Tool
@@ -22,7 +22,7 @@ When launched for the first time, the tool will load the UI element of the progr
 [SCREENSHOT]
 
 
-Section 2: Methods in the ISpotFishing Tool
+**Section 2: Methods in the ISpotFishing Tool**
 The tool has three different methods of detecting phishing emails. These methods are the following:
 • Email Header Extraction and Analysis
 • Website (URL) Detection and Analysis
@@ -45,10 +45,10 @@ Before viewing an email, you must ensure that you are logged in with the correct
 3. Wait for some time for the tool to collect the data.
 4. The data should now be presented for analysis.
 
-**PLEASE NOTE THAT THE METHODS IN THIS EMAIL ARE DESIGNED TO HELP ANALYSE EMAILS. THEREFORE, IT IS YOUR RESPONSIBILITY TO REVIEW ALL THE DATA IN FRONT OF YOU AND MAKE YOUR JUDGEMENT. ISPOTFISHING TOOL DOES NOT TAKE ANY RESPONSIBILITY FOR ANY LOSSES, OR DAMAGES AS A RESULT OF YOUR ACTIONS.
+**PLEASE NOTE THAT THE METHODS IN THIS EMAIL ARE DESIGNED TO HELP ANALYSE EMAILS. THEREFORE, IT IS YOUR RESPONSIBILITY TO REVIEW ALL THE DATA IN FRONT OF YOU AND MAKE YOUR JUDGEMENT. ISPOTFISHING TOOL DOES NOT TAKE ANY RESPONSIBILITY FOR ANY LOSSES, OR DAMAGES AS A RESULT OF YOUR ACTIONS.**
 
 
-Section 3: Factors/Techniques in detecting phishing emails
+**Section 3: Factors/Techniques in detecting phishing emails**
 To detect phishing email attacks, you must ensure to have sufficient information on the techniques, and methods cybercriminals use to conduct phishing email attacks. When using the tool, please make sure to analyse the following data presented:
 • The email address of the sender.
 • A return path if one is provided - can help to cross-check the sender email address against the return-path email address.
@@ -59,7 +59,7 @@ To detect phishing email attacks, you must ensure to have sufficient information
 More information on how to detect a phishing email can be found here: https://www.itgovernance.co.uk/blog/5-ways-to-detect-a-phishing-email
 
 
-Section 4: Q&A
+**Section 4: Q&A**
 Q: Why does this tool only work against unseen emails?
 A: Due to limitations of the protocol used to retrieve the data, alongside the API used to collect the data, the tool will only work against unseen emails. However, if you unsee an email and then repeat the steps above, it will work.
 
@@ -97,7 +97,7 @@ Q: I have another question that doesn’t have an answer. Who should I forward t
 Please drop me an email: joshua@ispotfishing.net
 
 
-Section 5: Reporting Bugs, or Issues
+**Section 5: Reporting Bugs, or Issues**
 Please read the following information below before reporting any bugs or issues with the tool.
 
 Bug or Issue Information:
@@ -107,21 +107,21 @@ Please include any images, photographs, or videos of the bug or issue if possibl
 
 Once you have read all the information above, please make sure to copy this template below, and create an issue here: https://github.com/Joshua82188/ISpotFishing-Tool/issues.
 
-Questions with an asterisk (*) must have an answer.
+```Questions with an asterisk (*) must have an answer.
 (*) Description of bug or issue:
 (*) Are you able to consistently replicate this bug or issue?:
 (*) Please provide the steps to replicate here:
 (*) Your Operating System, including Version: 
 Image(s) of bug or issue:
 Video(s) of bug or issue:
-Additional Information:
+Additional Information:```
 
 Note:
 Failure to fill in the questions may result in your report being denied or delayed. Therefore, please ensure to gather all the necessary information before submitting your report. 
 All bugs or issues reported must have been done ethically. This means not using any additional software to modify the tool’s behaviour. Any reports involving unethical behaviour, or testing will be rejected.
 
 
-Final Section: Prototype Questionnaire
+**Final Section: Prototype Questionnaire**
 The Project Manager would like to welcome you to participate in the Prototype Questionnaire. This is a chance for you to have your say on the tool developed, including what you like and dislike about the tool, and any feedback you would like to add. 
 
 The Questionnaire can be completed here: https://forms.gle/NnW7xpgui8vk5KmWA 
