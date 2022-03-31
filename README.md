@@ -1,15 +1,15 @@
 # ISpotFishing-Tool
 
-**Section 1: ISpotFishing Tool Information**
+## Section 1: ISpotFishing Tool Information**
 
 The ISpotFishing Tool is a newly designed tool, which is responsible for helping to detect phishing emails. It aims to extract, analyse, and present data from emails to help determine the risk or the likelihood of a phishing email. 
 
-How to download the ISpotFishing Tool
+### How to download the ISpotFishing Tool
 1. Download the tool as the executable file (.exe) in this respitory. 
 2. Allow the program to download.
 3. Run the program
 
-How to login to the ISpotFishing Tool
+### How to login to the ISpotFishing Tool
 
 The ISpotFishing Tool only works currently with Outlook. This tool will not work against other email providers such as Gmail, Yahoo, etc. Please note that we also don’t support custom email domains e.g. university emails, or business emails. All emails used are to be personal and kept personal during the use of the tool.
 
@@ -26,27 +26,26 @@ When launched for the first time, the tool will load the UI element of the progr
 ![ISpotFishingToolMainUI](https://i.gyazo.com/f1be5ecab5cc17dd4e52c6727289d55c.png)
 
 
-
-**Section 2: Methods in the ISpotFishing Tool**
+## Section 2: Methods in the ISpotFishing Tool
 
 The tool has three different methods of detecting phishing emails. These methods are the following:
 - Email Header Extraction and Analysis
 - Website (URL) Detection and Analysis
 - Attachments Detection and Analysis
 
-Email Header Extraction and Analysis
+### Email Header Extraction and Analysis
 
 The Email Header Extraction and Analysis method automatically fetches and extracts the contents of an email header for analysis. When a student clicks on an email and unclicks it, the tool will retrieve the necessary email header data, and present this data for analysis. 
 
-Website (URL) Detection and Analysis
+### Website (URL) Detection and Analysis
 
 The Website (URL) Detection and Analysis method scans an email and identifies any embedded URLs. URLs can be embedded through buttons or hyperlinks that can navigate students to websites once successfully clicked. The tool will detect these URLs, but it will also display a list of these URLs and scan them for analysis.
 
-Attachments Detection and Analysis
+### Attachments Detection and Analysis
 
 The Attachments Detection and Analysis method detect any attachments attached to an email. Attachments can include files such as documents, spreadsheets, etc, or can consist of any software such as .exe files. The tool will detect these attachments, but it will also display a list of these attachments and scan them for analysis.
 
-How to run these methods when viewing an email
+### How to run these methods when viewing an email
 
 Before viewing an email, you must ensure that you are logged in with the correct account on the tool. Otherwise, the tool will not be able to retrieve or fetch any data from the email you’re wishing to analyse. 
 
@@ -59,7 +58,7 @@ Before viewing an email, you must ensure that you are logged in with the correct
 
 
 
-**Section 3: Factors/Techniques in detecting phishing emails**
+## Section 3: Factors/Techniques in detecting phishing emails**
 
 To detect phishing email attacks, you must ensure to have sufficient information on the techniques, and methods cybercriminals use to conduct phishing email attacks. When using the tool, please make sure to analyse the following data presented:
 - The email address of the sender.
@@ -72,7 +71,7 @@ More information on how to detect a phishing email can be found here: https://ww
 
 
 
-**Section 4: Q&A**
+## Section 4: Q&A
 
 **Q: Why does this tool only work against unseen emails?**
 
@@ -124,7 +123,7 @@ Please drop me an email: joshua@ispotfishing.net
 
 
 
-**Section 5: Reporting Bugs, or Issues**
+## Section 5: Reporting Bugs, or Issues
 
 Please read the following information below before reporting any bugs or issues with the tool.
 
@@ -155,7 +154,7 @@ All bugs or issues reported must have been done ethically. This means not using 
 
 
 
-**Final Section: Prototype Questionnaire**
+## Final Section: Prototype Questionnaire
 
 The Project Manager would like to welcome you to participate in the Prototype Questionnaire. This is a chance for you to have your say on the tool developed, including what you like and dislike about the tool, and any feedback you would like to add. 
 
