@@ -1,6 +1,6 @@
 # ISpotFishing-Tool
 
-![ISPOTFISHING](https://i.gyazo.com/2808e29c63a171a698bc4e1398392877.jpg)
+![ISPOTFISHING](https://i.gyazo.com/2808e29c63a171a698bc4e1398392877.jpg =250x250)
 
 ## Section 1: ISpotFishing Tool Information**
 
