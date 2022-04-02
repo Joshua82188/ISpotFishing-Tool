@@ -11,6 +11,12 @@ The ISpotFishing Tool is a newly designed tool, which is responsible for helping
 2. Allow the program to download.
 3. Run the program
 
+Note: You may recieve a Windows Defender SmartScreen Diaglog as shown below:
+
+![SmartScreenDialog](https://i.gyazo.com/f26cb0032220a378731c77cffac45172.png)
+
+This dialog appears as the software has not been signed officially. We are currently working on obtaining a code signing certificate in order to sign this software. **However, because this is a project and not a business/organisation, the certificate won't prevent this diaglog from popping up. In order to prevent the dialog, we would need to claim a EV code signing certificate and this can only be obtained by being a business or organisation. Please be assured that this software does not contain any malware, or dangerous code. This has been coded for only the purposes specified in this post.**
+
 ### How to login to the ISpotFishing Tool
 
 The ISpotFishing Tool only works currently with Outlook. This tool will not work against other email providers such as Gmail, Yahoo, etc. Please note that we also don’t support custom email domains e.g. university emails, or business emails. All emails used are to be personal and kept personal during the use of the tool.
