@@ -17,6 +17,7 @@ Note: You may recieve a Windows Defender SmartScreen Diaglog as shown below:
 
 This dialog appears as the software has not been signed with an EV code singing certificate. **Because this is a project and not a business/organisation, the certificate we currently have won't prevent this diaglog from popping up. Please be assured that this software does not contain any malware, or dangerous code. This has been coded for only the purposes specified in this post.**
 
+Starting from the 3rd April, we have now digitally signed our software. This means that there is peace of mind when downloading our software. This ensures that the software released here hasn't been modified, and comes from a true and legitimate publisher. The publisher named on the software is: Joshua Hutchinson.
 
 ### How to login to the ISpotFishing Tool
 
@@ -178,3 +179,5 @@ Yours Faithfully
 Joshua
 
 Project Manager of the ISpotFishing Tool
+
+© Joshua Hutchinson | Created by March 2022
