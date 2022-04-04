@@ -15,9 +15,8 @@ Note: You may recieve a Windows Defender SmartScreen Diaglog as shown below:
 
 ![SmartScreenDialog](https://i.gyazo.com/f26cb0032220a378731c77cffac45172.png)
 
-This dialog appears as the software has not been signed officially. We are currently working on obtaining a code signing certificate in order to sign this software. **However, because this is a project and not a business/organisation, the certificate won't prevent this diaglog from popping up. In order to prevent the dialog, we would need to claim a EV code signing certificate and this can only be obtained by being a business or organisation. Please be assured that this software does not contain any malware, or dangerous code. This has been coded for only the purposes specified in this post.**
+This dialog appears as the software has not been signed with an EV code singing certificate. **Because this is a project and not a business/organisation, the certificate we currently have won't prevent this diaglog from popping up. Please be assured that this software does not contain any malware, or dangerous code. This has been coded for only the purposes specified in this post.**
 
-Your browser may also block the program from downloading. Again, this is due to the software not having a ceritifcate. Please allow the software to download in order to use the features.
 
 ### How to login to the ISpotFishing Tool
 
