@@ -130,6 +130,10 @@ A: Unfortunately, the current answer is no. This project is only going to be act
 
 A: Please read Section 5: Reporting Bugs, or Issues.
 
+**I have feedback to report on V1 of the ISpotFishing tool. Where can I report this?**
+
+A: Please report all feedback here: https://www.surveymonkey.co.uk/r/RFWHBXB. Additionally, please read Section 6: Evaluation Survey
+
 
 **Q: I have another question that doesn’t have an answer. Who should I forward the question to?**
 
@@ -166,6 +170,10 @@ Failure to fill in the questions may result in your report being denied or delay
 
 All bugs or issues reported must have been done ethically. This means not using any additional software to modify the tool’s behaviour. Any reports involving unethical behaviour, or testing will be rejected.
 
+
+## Section 6: Evaluation Survey
+
+As part of the final stage of the tool, the Project Manager is inviting you to evaluate the tool against a dummy phishing email. Whenever you have finished using the tool, please report all feedback through here: https://www.surveymonkey.co.uk/r/RFWHBXB Again, all feedback submitted is anoymous and will be used to determine the success of the project, including the future of the project of where it could go if it were to continue to development.
 
 If you have any questions, please do not hesitate to contact the project manager for further assistance: joshua@ispotfishing.net
 
