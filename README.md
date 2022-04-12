@@ -55,6 +55,12 @@ The Website (URL) Detection and Analysis method scans an email and identifies an
 
 The Attachments Detection and Analysis method detect any attachments attached to an email. Attachments can include files such as documents, spreadsheets, etc, or can consist of any software such as .exe files. The tool will detect these attachments, but it will also display a list of these attachments and scan them for analysis.
 
+### Keyword Detection and Analysis
+
+The Keyword Detection and Analysis method detects specific keywords mentioned in the body of an email. The tool will detect these keywords, but it will also display a list of the keywords detected and present them for analysis e.g., be able to identify how many times a keyword was mentioned in the email. The following keywords can be detect by the tool:
+
+
+
 ### How to run these methods when viewing an email
 
 Before viewing an email, you must ensure that you are logged in with the correct account on the tool. Otherwise, the tool will not be able to retrieve or fetch any data from the email you’re wishing to analyse. 
@@ -123,9 +129,6 @@ A: Unfortunately, the current answer is no. This project is only going to be act
 
 A: Please read Section 4: Reporting Bugs, or Issues.
 
-**Q: I would like to report my feedback on the prototype. Where can I do this?**
-
-Please read Section 5: Prototype Questionnaire
 
 **Q: I have another question that doesn’t have an answer. Who should I forward the question to?**
 
@@ -139,7 +142,7 @@ Please read the following information below before reporting any bugs or issues 
 
 ### Bug or Issue Information:
 
-- Please ensure that you’re on the latest version of the tool. The version number to date is: PROTOTYPE-fa24b0f
+- Please ensure that you’re on the latest version of the tool. The version number to date is: FIRSTVERSION-195ff14
 - Please document any steps or methods in replicating the bug or issue. The steps should ensure that the bug or issue can be replicated consistently for debugging purposes.
 - Please include any images, photographs, or videos of the bug or issue if possible. This is to identify how the bug or issue is behaving in the tool.
 
@@ -163,16 +166,7 @@ Failure to fill in the questions may result in your report being denied or delay
 All bugs or issues reported must have been done ethically. This means not using any additional software to modify the tool’s behaviour. Any reports involving unethical behaviour, or testing will be rejected.
 
 
-
-## Final Section: Prototype Questionnaire
-
-The Project Manager would like to welcome you to participate in the Prototype Questionnaire. This is a chance for you to have your say on the tool developed, including what you like and dislike about the tool, and any feedback you would like to add. 
-
-The Questionnaire can be completed here: https://forms.gle/NnW7xpgui8vk5KmWA 
-
-All feedback received will be reviewed by the Project Manager. The Project Manager will be responsible for deciding changes for Version 1 of the tool. So what are you’re waiting for? Complete the questionnaire now!
-
-Thank you for submitting your feedback, as well as for testing out the tool, and taking the time to provide your opinions and suggestions. If you have any questions, please do not hesitate to contact the project manager for further assistance: joshua@ispotfishing.net
+If you have any questions, please do not hesitate to contact the project manager for further assistance: joshua@ispotfishing.net
 
 Yours Faithfully
 
@@ -180,4 +174,4 @@ Joshua
 
 Project Manager of the ISpotFishing Tool
 
-© Joshua Hutchinson | Created by March 2022
+© Joshua Hutchinson | Created March 2022
