@@ -13,7 +13,7 @@ The ISpotFishing Tool is a newly designed tool, which is responsible for helping
 
 Note: You may recieve a Windows Defender SmartScreen Diaglog as shown below:
 
-![SmartScreenDialog](https://i.gyazo.com/f26cb0032220a378731c77cffac45172.png)
+![SmartScreenDialog](https://i.gyazo.com/f159f686a89e7c21d275422e5dc1db9d.png)
 
 This dialog appears as the software has not been signed with an EV code singing certificate. **Because this is a project and not a business/organisation, the certificate we currently have won't prevent this diaglog from popping up. Please be assured that this software does not contain any malware, or dangerous code. This has been coded for only the purposes specified in this post.**
 
