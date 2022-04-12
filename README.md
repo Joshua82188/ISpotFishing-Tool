@@ -128,7 +128,7 @@ A: Unfortunately, the current answer is no. This project is only going to be act
 
 **Q: I have discovered a bug or issue with the tool. Where can I report this?**
 
-A: Please read Section 4: Reporting Bugs, or Issues.
+A: Please read Section 5: Reporting Bugs, or Issues.
 
 
 **Q: I have another question that doesn’t have an answer. Who should I forward the question to?**
@@ -175,4 +175,4 @@ Joshua
 
 Project Manager of the ISpotFishing Tool
 
-© Joshua Hutchinson | Created March 2022
+© Joshua Hutchinson |  March 2022
