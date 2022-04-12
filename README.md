@@ -33,7 +33,7 @@ The ISpotFishing Tool only works currently with Outlook. This tool won't work wi
 
 When launched for the first time, the tool will load the UI element of the program. 
 
-![ISpotFishingToolMainUI](https://i.gyazo.com/f1be5ecab5cc17dd4e52c6727289d55c.png)
+![ISpotFishingToolMainUI](https://i.gyazo.com/c7ad5e9ac2025a7eada8b6a5df99603f.png)
 
 
 ## Section 2: Methods in the ISpotFishing Tool
@@ -42,6 +42,7 @@ The tool has three different methods of detecting phishing emails. These methods
 - Email Header Extraction and Analysis
 - Website (URL) Detection and Analysis
 - Attachments Detection and Analysis
+- Keywords Detection and Analysis
 
 ### Email Header Extraction and Analysis
 
@@ -55,7 +56,7 @@ The Website (URL) Detection and Analysis method scans an email and identifies an
 
 The Attachments Detection and Analysis method detect any attachments attached to an email. Attachments can include files such as documents, spreadsheets, etc, or can consist of any software such as .exe files. The tool will detect these attachments, but it will also display a list of these attachments and scan them for analysis.
 
-### Keyword Detection and Analysis
+### Keywords Detection and Analysis
 
 The Keyword Detection and Analysis method detects specific keywords mentioned in the body of an email. The tool will detect these keywords, but it will also display a list of the keywords detected and present them for analysis e.g., be able to identify how many times a keyword was mentioned in the email. The following keywords can be detect by the tool:
 
