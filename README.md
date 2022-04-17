@@ -59,7 +59,24 @@ The Attachments Detection and Analysis method detect any attachments attached to
 ### Keywords Detection and Analysis
 
 The Keyword Detection and Analysis method detects specific keywords mentioned in the body of an email. The tool will detect these keywords, but it will also display a list of the keywords detected and present them for analysis e.g., be able to identify how many times a keyword was mentioned in the email. The following keywords can be detect by the tool:
-
+- Account 
+- Debit 
+- Recently 
+- Access 
+- Information  
+- Risk 
+- Bank 
+- Log 
+- Security 
+- Client 
+- Notification 
+- Service 
+- Confirm 
+- Password  
+- User 
+- Credit 
+- Pay 
+- Urgent
 
 
 ### How to run these methods when viewing an email
