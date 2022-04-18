@@ -2,6 +2,8 @@
 
 ![ISPOTFISHING](https://i.gyazo.com/05b8684ef5af6c62b4b3de339bdaf436.jpg)
 
+**WARNING:** This software has now been discontinued, and won't be receiving any updates or support. Any bug or issue reports, or any support requests made after this date will be ignored. Thank you.
+
 ## Section 1: ISpotFishing Tool Information**
 
 The ISpotFishing Tool is a newly designed tool, which is responsible for helping to detect phishing emails. It aims to extract, analyse, and present data from emails to help determine the risk or the likelihood of a phishing email. 
@@ -91,113 +93,10 @@ Before viewing an email, you must ensure that you are logged in with the correct
 **PLEASE NOTE THAT THE METHODS IN THIS EMAIL ARE DESIGNED TO HELP ANALYSE EMAILS. THEREFORE, IT IS YOUR RESPONSIBILITY TO REVIEW ALL THE DATA IN FRONT OF YOU AND MAKE YOUR JUDGEMENT. ISPOTFISHING TOOL DOES NOT TAKE ANY RESPONSIBILITY FOR ANY LOSSES, OR DAMAGES AS A RESULT OF YOUR ACTIONS.**
 
 
-
-## Section 3: Factors/Techniques in detecting phishing emails**
-
-To detect phishing email attacks, you must ensure to have sufficient information on the techniques, and methods cybercriminals use to conduct phishing email attacks. When using the tool, please make sure to analyse the following data presented:
-- The email address of the sender.
-- A return path if one is provided - can help to cross-check the sender email address against the return-path email address.
-- Attachments in the email.
-- Domain names (if any).
-- URLs provided in the email.
-
-More information on how to detect a phishing email can be found here: https://www.itgovernance.co.uk/blog/5-ways-to-detect-a-phishing-email
-
-
-
-## Section 4: Q&A
-
-**Q: Why does this tool only work against unseen emails?**
-
-A: Due to limitations of the protocol used to retrieve the data, alongside the API used to collect the data, the tool will only work against unseen emails. However, if you unsee an email and then repeat the steps above, it will work.
-
-**Q: Do I have to click off the email for the tool to retrieve the data?**
-
-A: Yes. This is due to the limitations of the API as mentioned above. We cannot fix this ourselves.
-
-**Q: How far back can emails be analysed?**
-
-A: Due to limitations of the software, the tool can only handle 30 unread emails and lower. Anything more than 30 will not work against the email. If you want to analyse older emails, you will need to read some first until it is below the limit.
-
-**Q: Why am I responsible for analysing the data and making my judgement?**
-
-A: The job of the tool is to simply extract, and present specific and filtered data for analysis. This tool cannot tell you if it is a phishing email: it can help to analyse a phishing email, which can assess the likelihood of it being a phishing email. You are responsible for checking this yourself.  More information as mentioned above can be found here: https://www.itgovernance.co.uk/blog/5-ways-to-detect-a-phishing-email
-
-**Q: Am I allowed to take the tool and distribute it as my own?**
-
-A: No you can’t. The tool developed belongs to the Project Manager unless stated otherwise. All creations are protected under the Copyright, Designs, and Patents Act.
-
-**Q: I have a suggestion I would like to add. Where can I report this?**
-
-A: Please create an issue here: https://github.com/Joshua82188/ISpotFishing-Tool/issues. Please make sure to include as much information as you can. Please note that although we appreciate all feedback reported, this does not guarantee it will be implemented.
-
-**Q: Why does this tool only work with Outlook?**
-
-A: Every email provider stores and generates data differently. Because of this, it is difficult to expand it to different email providers with the restrictions in place of the project. Therefore, the decision was made to implement it only for Outlook for now.
-
-**Q: Why do I have to log in to the tool before I start using it?**
-
-A: This is so that the email server and the tool can communicate with each other. Don’t worry, all requests and data transmitted are secured with SSL Encryption. Your details are also encrypted when logged in. No one can view or steal your information or data.
-
-**Q: Are there any plans in the future to continue the development of the tool?**
-
-A: Unfortunately, the current answer is no. This project is only going to be active until May, in which afterward the project will be terminated (closed). The tool will be discontinued following project termination and will no longer be receiving any updates or support. There could be plans in the future to continue the development of the tool, but this is at the discretion of the Project Manager.
-
-**Q: I have discovered a bug or issue with the tool. Where can I report this?**
-
-A: Please read Section 5: Reporting Bugs, or Issues.
-
-**I have feedback to report on V1 of the ISpotFishing tool. Where can I report this?**
-
-A: Please report all feedback here: https://www.surveymonkey.co.uk/r/RFWHBXB. Additionally, please read Section 6: Evaluation Survey
-
-
-**Q: I have another question that doesn’t have an answer. Who should I forward the question to?**
-
-Please drop me an email: joshua@ispotfishing.net
-
-
-
-## Section 5: Reporting Bugs, or Issues
-
-Please read the following information below before reporting any bugs or issues with the tool.
-
-### Bug or Issue Information:
-
-- Please ensure that you’re on the latest version of the tool. The version number to date is: FIRSTVERSION-195ff14
-- Please document any steps or methods in replicating the bug or issue. The steps should ensure that the bug or issue can be replicated consistently for debugging purposes.
-- Please include any images, photographs, or videos of the bug or issue if possible. This is to identify how the bug or issue is behaving in the tool.
-
-Once you have read all the information above, please make sure to copy this template below, and create an issue here: https://github.com/Joshua82188/ISpotFishing-Tool/issues.
-
-Questions with an asterisk (*) must have an answer.
-```
-(*) Description of bug or issue:
-(*) Are you able to consistently replicate this bug or issue?:
-(*) Please provide the steps to replicate here:
-(*) Your Operating System, including Version: 
-Image(s) of bug or issue:
-Video(s) of bug or issue:
-Additional Information:
-```
-
-Note:
-
-Failure to fill in the questions may result in your report being denied or delayed. Therefore, please ensure to gather all the necessary information before submitting your report. 
-
-All bugs or issues reported must have been done ethically. This means not using any additional software to modify the tool’s behaviour. Any reports involving unethical behaviour, or testing will be rejected.
-
-
-## Section 6: Evaluation Survey
-
-As part of the final stage of the tool, the Project Manager is inviting you to evaluate the tool against a dummy phishing email. Whenever you have finished using the tool, please report all feedback through here: https://www.surveymonkey.co.uk/r/RFWHBXB Again, all feedback submitted is anoymous and will be used to determine the success of the project, including the future of the project of where it could go if it were to continue to development.
-
-If you have any questions, please do not hesitate to contact the project manager for further assistance: joshua@ispotfishing.net
-
 Yours Faithfully
 
 Joshua
 
-Project Manager of the ISpotFishing Tool
+Ex Project Manager of the ISpotFishing Tool
 
 © Joshua Hutchinson |  March 2022
